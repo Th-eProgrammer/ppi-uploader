@@ -1,6 +1,54 @@
 [
-  {
-    "name": "Philippines",
-    "countryCode": "PH"
-  }
-]
+	  {
+	    "name": "Philippines",
+	    "countryCode": "PH"
+	  },
+	  {
+	    "name": "Honduras",
+	    "countryCode": "HN"
+	  },
+	  {
+	    "name": "Guatemala",
+	    "countryCode": "GT"
+	  },
+	  {
+	    "name": "Peru",
+	    "countryCode": "PE"
+	  },
+	   {
+	    "name": "Ghana",
+	    "countryCode": "GH"
+	  },
+           {
+	    "name": "Mexico",
+	    "countryCode": "MX"
+	  },
+	    {
+	    "name": "Rwanda",
+	    "countryCode": "RW"
+	  },
+	  {
+	    "name": "Tajikistan",
+	    "countryCode": "TJ"
+	  },
+	     {
+	    "name": "Dominican Republic",
+	    "countryCode": "DO"
+	  },
+	     {
+	    "name": "Uganda",
+	    "countryCode": "UG"
+	  },
+	     {
+	    "name": "Indonesia",
+	    "countryCode": "ID"
+	  },
+	     {
+	    "name": "India",
+	    "countryCode": "IN"
+	  },
+	  {
+	    "name": "El Salvador",
+	    "countryCode": "SV"
+	  }
+	]
